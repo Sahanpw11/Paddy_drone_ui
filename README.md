@@ -25,10 +25,6 @@ As mentioned earlier, this UI is a non-functional prototype and does not perform
 
 Contributions to enhance the UI design or add functionality are welcome. If you're interested in contributing, please fork the repository, make your changes, and submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute the code for both commercial and non-commercial purposes. However, attribution to the original authors is required.
-
 ## Contact
 
 For any inquiries or feedback regarding this UI, please contact [insert contact information].
